@@ -1,4 +1,11 @@
 # Incognigram - Incognito Instagram
 
-A Chrome extension to browse Instagram anonymously, disabling the obnoxious login pop-ups.
-It disables login pop-ups both when loading new posts and trying to open one.
+A Chrome extension to **browse Instagram anonymously**, disabling the obnoxious login pop-ups.
+It disables login pop-ups when loading new posts or trying to open one.
+
+> :information_source: The Chrome extension can be installed by following the steps explained in this guide: https://support.google.com/chrome/a/answer/2714278
+
+> :warning: If you exceed the quota of rate-limited Instagram operations, you will still be asked for login. To prevent this you can rely on a proxy/VPN.
+
+
+
